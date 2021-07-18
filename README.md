@@ -1,50 +1,79 @@
-### Hi there 👋
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=29BCF7&size=35&lines=Hey++there%F0%9F%91%8B;Good+to+have+you!)](https://git.io/typing-svg) -->
+# Hey there !! <img src="https://github.com/vedantrokde/vedantrokde/blob/main/hi.gif" width="35px">
+<img align="right" src="https://komarev.com/ghpvc/?username=vedantrokde&label=Profile%20views&color=0e75b6&style=flat" alt="vedantrokde"/>
+<br>
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-vedantrokde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vedantrokde/)](https://www.linkedin.com/in/vedantrokde/)
+[![Instagram Badge](https://img.shields.io/badge/-vedant_rokde-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vedant_rokde)](https://instagram.com/vedant_rokde)   -->
 
-<!--
-**vedantrokde/vedantrokde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vedant Rokde, a developer from India, pursuing *Btech* in *Computer Science Engineering* From Vellore Institute of Technology. A curious observer and algorithmist with ample experience in field of automation and machine learning. Have ingrained Passion towards Software Development and Web Dev (API-backend) creation. Also open to opportunities in Data Analysis, Machine Learning and Automation. Looking forward to development, innovation and solving real-world problems.
 
-Here are some ideas to get you started:
+<img align="right" src="https://github.com/vedantrokde/vedantrokde/blob/main/v-icon-bg.jpg" width="350px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Vedant Rokde</h1>
-<h3 align="center">I’m a developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantrokde&label=Profile%20views&color=0e75b6&style=flat" alt="vedantrokde" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantrokde" alt="vedantrokde" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/vedantrokde](https://github.com/vedantrokde)
-
-- 📫 How to reach me **vedant24rokde@gmail.com**
-
-- 📄 Know about my experiences [https://www.vedantrokde.tech/resume.pdf](https://www.vedantrokde.tech/resume.pdf)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+- 🏦 I'm a Computer Science Engineering student at VIT, Chennai 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I daily use **.py** and **.cpp**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vedantrokde)
+- 📄 Know about my experiences from my [Resume](https://www.vedantrokde.tech/resume.pdf)
+- 😎 Know more about me [here](https://www.vedantrokde.tech/)
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Python isn't poisonous.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vedantrokde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://instagram.com/vedant_rokde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_rokde" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vedantrokde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedantrokde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vedantrokde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedantrokde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vedantrokde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vedantrokde" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/vedantrokde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="vedantrokde" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vedantrokde" target="_blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="vedantrokde" height="30" width="40" /></a>
+<a href="https://instagram.com/vedant_rokde" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="vedant_rokde" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vedantrokde" target="_blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" alt="vedantrokde" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vedantrokde" target="_blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="vedantrokde" height="30" width="40" /></a>
+<a href="mailto:vedant24rokde@gmail.com" target="_blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="vedantrokde" height="30" width="40" /></a>
+<a href="https://www.vedantrokde.tech/" target="_blank"><img align="center" src="https://www.vedantrokde.tech/assets/img/favicon-96x96.png" alt="vedantrokde" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Skills
+### Programming Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45px" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="" height="45px"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantrokde&show_icons=true&locale=en&layout=compact" alt="vedantrokde" /></p>
+### Data Science & Machine Learning
+<p>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="" height="45px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="" height="45px"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="" height="45px"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantrokde&show_icons=true&locale=en" alt="vedantrokde" /></p>
+### Web Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="" height="45px"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantrokde&" alt="vedantrokde" /></p>
+### Microservies
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="" height="45px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="" height="45px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" width="" height="45px"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="" height="45px"/>
+</p>
+
+---
+![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=vedantrokde&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantrokde&layout=compact&text_color=daf7dc&bg_color=151515)
+---
+### Happy Coding!
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
+<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantrokde" alt="vedantrokde" /></a> </p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantrokde&" alt="vedantrokde" /></p>-->
